@@ -1,24 +1,44 @@
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Security\Dto\LoginUsuario.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Security\jwt\JwtTokenFilter.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Security\Service\UsuarioService.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Security\jwt\JwtEntryPoint.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Security\MainSecurity.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Security\Service\RolService.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Security\Enums\RolNombre.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Security\Dto\JwtDto.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Interface\IPersonaService.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Security\Controller\Mensaje.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Security\Repository\iUsuarioRepository.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Security\jwt\JwtProvider.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Controller\PersonaController.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Entity\Persona.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\OscarApplication.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Security\Entity\Usuario.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Security\Repository\RolRepository.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Repository\IPersonaRepository.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Security\Controller\AuthController.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Security\Service\UserDetailsImpl.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Security\Dto\NuevoUsuario.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Security\Entity\Rol.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Security\Entity\UsuarioPrincipal.java
-C:\Users\admin\Desktop\html cajas\Oscar\src\main\java\com\MiPortfolio\Oscar\Service\ImpPersonaService.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Security\Dto\NuevoUsuario.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Security\jwt\JwtProvider.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Controller\CHys.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Entity\Estudios.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Controller\CProyectos.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Controller\PersonaController.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Entity\hys.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Dto\dtoHys.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Dto\dtoPersona.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Security\Controller\AuthController.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Security\Repository\iUsuarioRepository.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Repository\IPersonaRepository.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Security\jwt\JwtEntryPoint.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Repository\Rproyectos.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Security\Entity\UsuarioPrincipal.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Dto\dtoProyectos.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Service\Sestudios.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Service\ImpPersonaService.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\OscarApplication.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Security\Dto\LoginUsuario.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Repository\REstudios.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Service\Sproyectos.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Entity\Experiencia.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Security\Dto\JwtDto.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Security\Service\RolService.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Security\Repository\RolRepository.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Security\jwt\JwtTokenFilter.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Security\MainSecurity.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Controller\CExperiencia.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Entity\Proyectos.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Security\Entity\Usuario.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Security\Service\UsuarioService.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Service\SExperiencia.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Repository\RExperiencia.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Security\Controller\Mensaje.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Repository\Rhys.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Service\Shys.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Dto\dtoExperiencia.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Entity\Persona.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Dto\dtoEstudios.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Security\Enums\RolNombre.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Security\Entity\Rol.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Controller\CEstudios.java
+C:\Users\Usuario\Documents\backfinal\src\main\java\com\MiPortfolio\Oscar\Security\Service\UserDetailsImpl.java
