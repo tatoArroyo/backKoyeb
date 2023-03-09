@@ -18,7 +18,7 @@ public WebMvcConfigurer corsConfigurer(){
     return new WebMvcConfigurer(){
         @Override
         public void addCorsMappings(CorsRegistry registry){
-            registry.addMapping("/**").allowedOrigins("http://localhost:4200").allowedMethods("*").allowedHeaders("*");
+            registry.addMapping("/**").allowedOrigins("https://frontend1910-6bd06.web.app").allowedMethods("*").allowedHeaders("*");
  }
 };
 }

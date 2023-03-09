@@ -24,8 +24,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 //saque la barra delante de persona
 @RequestMapping("personas")
-@CrossOrigin(origins = "http://localhost:4200")
-//@CrossOrigin(origins = "https://CarpetaFrontend.web.app")
+//@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://frontend1910-6bd06.web.app")
 public class PersonaController {
     @Autowired
     ImpPersonaService personaService;
