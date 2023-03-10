@@ -9,7 +9,6 @@ com\MiPortfolio\Oscar\Security\jwt\JwtEntryPoint.class
 com\MiPortfolio\Oscar\Service\Sestudios.class
 com\MiPortfolio\Oscar\Repository\RExperiencia.class
 com\MiPortfolio\Oscar\Security\MainSecurity.class
-com\MiPortfolio\Oscar\OscarApplication$1.class
 com\MiPortfolio\Oscar\OscarApplication.class
 com\MiPortfolio\Oscar\Security\Dto\LoginUsuario.class
 com\MiPortfolio\Oscar\Security\Dto\JwtDto.class
